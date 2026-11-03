@@ -23,13 +23,24 @@ body{
     padding: 50px 20px;
 }
 
-.profile img{
+.profile img, .avatar-placeholder{
     width: 180px;
     height: 180px;
     border-radius: 50%;
     border: 5px solid white;
+    margin: 0 auto 15px;
+}
+
+.profile img{
     object-fit: cover;
-    margin-bottom: 15px;
+}
+
+.avatar-placeholder{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(255, 255, 255, 0.15);
+    color: white;
 }
 
 .profile h1{
@@ -90,4 +101,3 @@ footer{
     padding: 20px;
     font-size: 18px;
 }
-

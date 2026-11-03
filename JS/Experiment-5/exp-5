@@ -8,8 +8,8 @@ app.use(express.json());
 let users = [
     {
         id: 1,
-        name: "Aprajita",
-        email: "aprajita@gmail.com"
+        name: "User 1",
+        email: "user1@example.com"
     },
     {
         id: 2,

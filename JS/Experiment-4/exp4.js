@@ -22,8 +22,8 @@ const schema = buildSchema(`
 const users = [
     {
         id: "7",
-        name: "Aprajita",
-        email: "aprajita@gmail.com"
+        name: "User 1",
+        email: "user1@example.com"
     },
     {
         id: "8",
