@@ -1,5 +1,5 @@
 {
-  "name": "cse_15_fsd_274",
+  "name": "fsd_repo",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aprajitamall/CSE_15_FSD_274.git"
+    "url": "git+https://github.com/404Avinash/fsd_repo.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "404Avinash",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/aprajitamall/CSE_15_FSD_274/issues"
+    "url": "https://github.com/404Avinash/fsd_repo/issues"
   },
-  "homepage": "https://github.com/aprajitamall/CSE_15_FSD_274#readme"
+  "homepage": "https://github.com/404Avinash/fsd_repo#readme"
 }
